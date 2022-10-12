@@ -12,11 +12,13 @@ Autumn 2022 Machine Learing in the Geosciences Course ([https://github.com/UW-ES
 
 ## An example of how to clone a repository
 
+~~~bash
   #In terminal, choose a directory to save your cloned repository to
   $ cd <name of directory>
   
   #Copy the url of desired repository into following terminal as such
   $ git clone <this is the repository I want to work on>
+~~~
 
   
 
