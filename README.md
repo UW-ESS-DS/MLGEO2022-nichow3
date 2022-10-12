@@ -20,7 +20,10 @@ Autumn 2022 Machine Learing in the Geosciences Course ([https://github.com/UW-ES
   $ git clone <this is the repository I want to work on>
 ~~~
 
-  
+
+## Liscensing
+
+
 
 
 
